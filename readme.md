@@ -1,5 +1,9 @@
 # Golang Learning Notes
 
+## Go With Habib
+
+## Course conducted by Habibur Rahman (Senior Software Engineer)
+
 ## Table of Contents
 
 1. [Golang [007] - Hello World](#golang-007---hello-world)
